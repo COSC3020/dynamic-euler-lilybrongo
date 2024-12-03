@@ -11,8 +11,8 @@ function e(n) {
 }
 */
 
-funtion e(n) {
-    //initializing sum to be 0, while creating a storage component for the total approximation
+function e(n) {
+    //initializing sum to be 0, while creating a place for the total approximation
     let sum = 0;
     //initializing factorial to be 1 since 0! = 1
     let factorial = 1;
